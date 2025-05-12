@@ -1,0 +1,2 @@
+# remove-B.G
+FOR IMEAGE REMOVE BG
